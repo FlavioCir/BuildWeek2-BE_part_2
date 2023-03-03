@@ -1,6 +1,10 @@
-# Colloquio
+# BuildWeek
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.10.
+
+#Important
+
+To see the various sections in the url http:localhost:4200 also start the back-end located in the BuildWeek2-BE_part_1 repository
 
 ## Development server
 
